@@ -34,7 +34,7 @@ Adding wastewater to a next-week ED forecast did **not** beat simply carrying la
 
 This is a real, useful result, and it matches what health departments report about *citywide, weekly* wastewater data:
 
-- **Weekly averages blur a lead of a few days.** Published studies typically find wastewater leads clinical data by about 4–10 days. At weekly resolution that shows up as "same week."
+- **Weekly averages blur a lead of a few days.** Studies that report a wastewater lead usually measure it in days, not weeks. At weekly resolution that shows up as "same week."
 - **Citywide averaging hides local signals.** NYC has 14 treatment plants; a rise in one borough is diluted in the city average.
 - **NYC's ED surveillance is already fast.** ED visit data is reported by visit date, so there's little reporting delay for wastewater to beat.
 - **One season is a small sample.** It covers one COVID wave, one flu season and one RSV season.
