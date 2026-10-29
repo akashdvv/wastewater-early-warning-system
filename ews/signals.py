@@ -39,7 +39,7 @@ def alert_onsets(alerts: pd.Series, min_gap: int = 6) -> list[pd.Timestamp]:
     return onsets
 
 
-def match_onsets(signal_onsets, outcome_onsets, max_weeks: int = 8) -> pd.DataFrame:
+def match_onsets(signal_onsets, outcome_onsets, max_weeks: int = 4) -> pd.DataFrame:
     """Pair each outcome wave with the nearest signal alert within +/- max_weeks.
     lead_weeks > 0 means wastewater alerted first."""
     rows = []

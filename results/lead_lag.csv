@@ -1,0 +1,4 @@
+pathogen,best_lag_weeks,corr_at_best,corr_at_lag0
+COVID-19,-2,0.55,0.39
+Influenza A,0,0.69,0.69
+RSV,2,0.29,0.15

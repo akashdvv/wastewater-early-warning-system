@@ -1,0 +1,10 @@
+pathogen,model,MAPE_%,direction_accuracy_%,n_weeks
+COVID-19,naive,19.3,,28
+COVID-19,baseline,26.8,28.6,28
+COVID-19,with_wastewater,27.8,32.1,28
+Influenza A,naive,27.7,,28
+Influenza A,baseline,34.2,39.3,28
+Influenza A,with_wastewater,41.1,46.4,28
+RSV,naive,58.5,,28
+RSV,baseline,73.5,10.7,28
+RSV,with_wastewater,89.4,10.7,28
